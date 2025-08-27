@@ -82,8 +82,8 @@
 
 欢迎通过以下方式参与项目：
 
-- 🐛 **报告问题**: [在 GitHub Issues 中提交 Bug](https://github.com/KroMiose/one-tracker/issues)
-- 💡 **提出建议**: [在 GitHub Discussions 中分享你的想法](https://github.com/KroMiose/one-tracker/discussions)
+- 🐛 **报告问题**: [在 GitHub Issues 中提交 Bug](https://github.com//NekroAI/one-tracker/issues)
+- 💡 **提出建议**: [在 GitHub Discussions 中分享你的想法](https://github.com//NekroAI/one-tracker/discussions)
 - 🔧 **贡献代码**: 查看我们的 [开发指南](./docs/DEVELOPMENT.md) 开始贡献
 - ⭐ 如果你觉得这个项目对你有帮助，请给一个 **Star**！
 
@@ -93,4 +93,4 @@
 
 ## ⭐ Star 趋势
 
-![Star History Chart](https://api.star-history.com/svg?repos=KroMiose/one-tracker&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=/NekroAI/one-tracker&type=Date)

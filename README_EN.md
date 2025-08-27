@@ -82,8 +82,8 @@ If you're looking for a highly scalable AI Agent framework, we recommend checkin
 
 Welcome to participate in the project in the following ways:
 
-- 🐛 **Report Issues**: [Submit bugs in GitHub Issues](https://github.com/KroMiose/one-tracker/issues)
-- 💡 **Suggest Ideas**: [Share your thoughts in GitHub Discussions](https://github.com/KroMiose/one-tracker/discussions)
+- 🐛 **Report Issues**: [Submit bugs in GitHub Issues](https://github.com//NekroAI/one-tracker/issues)
+- 💡 **Suggest Ideas**: [Share your thoughts in GitHub Discussions](https://github.com//NekroAI/one-tracker/discussions)
 - 🔧 **Contribute Code**: Check our [Development Guide](./docs/DEVELOPMENT.md) to start contributing
 - ⭐ If you find this project helpful, please give us a **Star**!
 
@@ -93,4 +93,4 @@ This project is open source under the [MIT License](./LICENSE).
 
 ## ⭐ Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=KroMiose/one-tracker&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=/NekroAI/one-tracker&type=Date)

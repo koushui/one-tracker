@@ -101,7 +101,7 @@ const HomePage = () => {
                   variant="outlined"
                   startIcon={<GitHubIcon />}
                   size="large"
-                  href="https://github.com/KroMiose/one-tracker"
+                  href="https://github.com//NekroAI/one-tracker"
                   sx={{ px: 4, py: 1.5 }}
                 >
                   开源仓库

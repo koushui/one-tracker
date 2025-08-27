@@ -119,7 +119,7 @@ export function DashboardPage() {
         <Button
           variant="outlined"
           size="large"
-          onClick={() => window.open("https://github.com/KroMiose/one-tracker", "_blank")}
+          onClick={() => window.open("https://github.com//NekroAI/one-tracker", "_blank")}
         >
           查看源码
         </Button>

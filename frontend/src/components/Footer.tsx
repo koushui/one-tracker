@@ -19,7 +19,7 @@ export const Footer = () => {
           </Typography>
           <Box sx={{ display: "flex", gap: 3 }}>
             <Link
-              href="https://github.com/KroMiose/one-tracker"
+              href="https://github.com//NekroAI/one-tracker"
               target="_blank"
               rel="noopener"
               variant="body2"
