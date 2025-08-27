@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "lib": ["ESNext", "DOM"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@frontend/*": ["./frontend/src/*"],
+      "@common/*": ["./common/*"]
+    },
+    "types": ["@cloudflare/workers-types", "vite/client"],
+    "allowImportingTsExtensions": true
+  },
+  "include": ["src", "frontend/src", "common"],
+  "exclude": ["node_modules", "dist", "frontend/dist"]
+}

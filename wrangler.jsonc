@@ -1,0 +1,45 @@
+{
+  "$schema": "https://raw.githubusercontent.com/cloudflare/wrangler/main/config-schema.json",
+  "name": "one-tracker",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-07-29",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "binding": "ASSETS",
+    "directory": "./dist/client"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "one-tracker-local",
+      "database_id": "local",
+      "migrations_dir": "drizzle"
+    }
+  ],
+  "vars": {
+    "NODE_ENV": "development",
+    "VITE_PORT": "5175",
+    "APP_BASE_URL": "http://localhost:8787"
+  },
+  "env": {
+    "production": {
+      "assets": {
+        "binding": "ASSETS",
+        "directory": "./dist/client"
+      },
+      "d1_databases": [
+        {
+          "binding": "DB",
+          "database_name": "one-tracker",
+          "database_id": "638fbfe8-724a-4321-a722-8a1b81ee2170",
+          "migrations_dir": "drizzle"
+        }
+      ],
+      "vars": {
+        "NODE_ENV": "production",
+        "VITE_PORT": "5175",
+        "APP_BASE_URL": "https://tracker.nekro.ai"
+      }
+    }
+  }
+}
