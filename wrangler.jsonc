@@ -31,7 +31,7 @@
         {
           "binding": "DB",
           "database_name": "one-tracker",
-          "database_id": "638fbfe8-724a-4321-a722-8a1b81ee2170",
+          "database_id": "42bf06cd-90a1-4ed0-a2b8-2414a961337a",
           "migrations_dir": "drizzle"
         }
       ],

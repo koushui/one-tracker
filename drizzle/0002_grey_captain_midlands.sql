@@ -1,1 +1,0 @@
-ALTER TABLE `users` ADD `provider_base_url` text;

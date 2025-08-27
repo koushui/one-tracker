@@ -1,17 +1,12 @@
-CREATE TABLE `user_model_config` (
-	`id` text PRIMARY KEY NOT NULL,
-	`user_id` text NOT NULL,
-	`use_system_mapping` integer DEFAULT true NOT NULL,
-	`custom_haiku` text,
-	`custom_sonnet` text,
-	`custom_opus` text,
-	`created_at` integer NOT NULL,
-	`updated_at` integer NOT NULL,
-	FOREIGN KEY (`user_id`) REFERENCES `users`(`id`) ON UPDATE no action ON DELETE cascade
+CREATE TABLE `features` (
+	`id` integer PRIMARY KEY NOT NULL,
+	`key` text NOT NULL,
+	`name` text NOT NULL,
+	`description` text NOT NULL,
+	`enabled` integer DEFAULT false NOT NULL
 );
 --> statement-breakpoint
-CREATE UNIQUE INDEX `user_model_config_user_id_unique` ON `user_model_config` (`user_id`);--> statement-breakpoint
-CREATE INDEX `user_model_config_user_id_idx` ON `user_model_config` (`user_id`);--> statement-breakpoint
+CREATE UNIQUE INDEX `features_key_idx` ON `features` (`key`);--> statement-breakpoint
 CREATE TABLE `user_sessions` (
 	`id` text PRIMARY KEY NOT NULL,
 	`user_id` text NOT NULL,
@@ -31,7 +26,7 @@ CREATE TABLE `users` (
 	`email` text,
 	`avatar_url` text,
 	`api_key` text NOT NULL,
-	`encrypted_provider_api_key` text,
+	`metadata` text,
 	`created_at` integer DEFAULT (strftime('%s', 'now')) NOT NULL,
 	`updated_at` integer DEFAULT (strftime('%s', 'now')) NOT NULL
 );
