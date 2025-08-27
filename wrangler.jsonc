@@ -38,7 +38,7 @@
       "vars": {
         "NODE_ENV": "production",
         "VITE_PORT": "5175",
-        "APP_BASE_URL": "https://tracker.nekro.ai"
+        "APP_BASE_URL": "https://ot.nekro.ai"
       }
     }
   }

@@ -4,7 +4,7 @@
 
 > 🎯 **全方位AI模型价格对比与追踪平台 - 让您轻松找到最具性价比的AI服务**
 
-[![部署状态](https://img.shields.io/badge/部署-在线-brightgreen)](https://tracker.nekro.ai/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![QQ群1](<https://img.shields.io/badge/QQ群1-636925153(将满)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/eT30LxDcSA) [![QQ群2](<https://img.shields.io/badge/QQ群2-679808796(新开)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/ZQ6QHdkXu0) [![Discord](https://img.shields.io/badge/Discord-加入频道-5865F2?style=flat-square&logo=discord)](https://discord.gg/eMsgwFnxUB)
+[![部署状态](https://img.shields.io/badge/部署-在线-brightgreen)](https://ot.nekro.ai/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![QQ群1](<https://img.shields.io/badge/QQ群1-636925153(将满)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/eT30LxDcSA) [![QQ群2](<https://img.shields.io/badge/QQ群2-679808796(新开)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/ZQ6QHdkXu0) [![Discord](https://img.shields.io/badge/Discord-加入频道-5865F2?style=flat-square&logo=discord)](https://discord.gg/eMsgwFnxUB)
 
 **One Tracker** 是一个部署在 Cloudflare 上的开源大模型价格比较平台。它专为AI开发者和企业用户设计，通过统一的解析引擎，让您可以实时比较**多个大模型供应商的价格**，包括 OneAPI、NewAPI、OneHub 等主流中转平台，帮助您找到最具性价比的大模型服务。
 
@@ -21,7 +21,7 @@
 
 ### 1. 访问比价页面
 
-访问 **[https://tracker.nekro.ai/pricing](https://tracker.nekro.ai/pricing)**，无需注册即可使用完整比价功能。
+访问 **[https://ot.nekro.ai/pricing](https://ot.nekro.ai/pricing)**，无需注册即可使用完整比价功能。
 
 ### 2. 配置供应商源站
 

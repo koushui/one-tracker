@@ -4,7 +4,7 @@
 
 > 🎯 **Comprehensive AI Model Price Comparison and Tracking Platform - Easily Find the Most Cost-Effective AI Services**
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Online-brightgreen)](https://tracker.nekro.ai/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![QQ Group 1](<https://img.shields.io/badge/QQ_Group1-636925153(Nearly_Full)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/eT30LxDcSA) [![QQ Group 2](<https://img.shields.io/badge/QQ_Group2-679808796(New)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/ZQ6QHdkXu0) [![Discord](https://img.shields.io/badge/Discord-Join_Channel-5865F2?style=flat-square&logo=discord)](https://discord.gg/eMsgwFnxUB)
+[![Deployment Status](https://img.shields.io/badge/Deployment-Online-brightgreen)](https://ot.nekro.ai/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) [![QQ Group 1](<https://img.shields.io/badge/QQ_Group1-636925153(Nearly_Full)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/eT30LxDcSA) [![QQ Group 2](<https://img.shields.io/badge/QQ_Group2-679808796(New)-12B7F3?style=flat-square&logo=tencentqq>)](https://qm.qq.com/q/ZQ6QHdkXu0) [![Discord](https://img.shields.io/badge/Discord-Join_Channel-5865F2?style=flat-square&logo=discord)](https://discord.gg/eMsgwFnxUB)
 
 **One Tracker** is an open-source large language model price comparison platform deployed on Cloudflare. It's specifically designed for AI developers and enterprise users, providing a unified parsing engine that allows you to **compare prices from multiple LLM providers** in real-time, including mainstream proxy platforms like OneAPI, NewAPI, OneHub, helping you find the most cost-effective LLM services.
 
@@ -21,7 +21,7 @@
 
 ### 1. Access Price Comparison Page
 
-Visit **[https://tracker.nekro.ai/pricing](https://tracker.nekro.ai/pricing)** to use the complete price comparison features without registration.
+Visit **[https://ot.nekro.ai/pricing](https://ot.nekro.ai/pricing)** to use the complete price comparison features without registration.
 
 ### 2. Configure Provider Sources
 

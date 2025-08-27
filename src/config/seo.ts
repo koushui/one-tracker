@@ -39,7 +39,7 @@ export interface SEOConfig {
 export const seoConfig: SEOConfig = {
   // 🌟 基础网站信息（必须修改）
   siteName: "One Tracker",
-  siteUrl: "https://tracker.nekro.ai",
+  siteUrl: "https://ot.nekro.ai",
   title: "One Tracker - 全方位AI模型价格对比与追踪平台",
   description:
     "One Tracker是一个开源的AI模型价格对比和追踪平台，支持OneAPI、NewAPI、OneHub等多种供应商的实时价格监控，帮助用户找到最具性价比的AI模型服务。提供详细的价格分析、分组管理和智能推荐功能。",
