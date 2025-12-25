@@ -59,7 +59,7 @@
     "@unocss/reset": "^66.3.2",
     "drizzle-orm": "^0.44.2",
     "drizzle-zod": "^0.8.2",
-    "framer-motion": "^12.23.0",
+    "framer-motion": "^12.23.25",
     "hono": "4.4.0",
     "i18next": "^25.2.1",
     "i18next-browser-languagedetector": "^8.2.0",
